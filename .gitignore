@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Database / vector store
+db/
+data/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.bak
